@@ -1,0 +1,21 @@
+{
+  "mode":"2",
+  "file":
+  {
+    "dir":"\/home\/osipovav\/public_html\/development\/WorkstationFittersAssembler\/app\/logs\/",
+    "user_list":"user_list.xml",
+    "user_action":"user_action.xml",
+    "error":"error.xml",
+    "report":"report.xml"},
+  "mssql":
+  {
+    "dsn":"",
+    "database":"",
+    "username":"",
+    "password":""
+  },
+  "postgresql":
+  [
+
+  ]
+}

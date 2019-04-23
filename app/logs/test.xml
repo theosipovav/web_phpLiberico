@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="KOI8-R"?>
+<root>
+    <Logs>
+        <user>ИМЯ_ПОЛЬЗОВАТЕЛЯ</user>
+        <ip>АДРЕСС_ПК</ip>
+        <msg>СООБЩЕНИЕ</msg>
+        <url>URL_ЗАПРОСА_ПОЛЬЗОВАТЕЛЯ</url>
+        <data>ДАТА_ОБРАЩЕНИЯ_ПОЛЬЗОВАТЕЛЯ_К_СЕРВИСУ</data>
+    </Logs>
+</root>

@@ -1,0 +1,28 @@
+.debug-panel{
+    position: fixed;
+    z-index: 100;
+    left: 0; right: 0; bottom: 0;
+    background: #008000;
+    border: 1px solid green;
+}
+.debug-panel-minimize{
+    height: 25px;
+}
+.debug-panel-expend{
+    height: 500px;
+}
+    .debug-panel .debug-panel-header{
+        height: 25px;
+        background: #008000;
+        color: #FFF;
+        text-align: center;
+        font-size: 1em;
+        font-style: italic;
+        cursor: pointer;
+    }
+    .debug-panel .debug-panel-content{
+        position: absolute;
+        left: 0; top: 25px; right: 0; bottom: 0;
+        background: #eee;
+        overflow: auto;
+    }
